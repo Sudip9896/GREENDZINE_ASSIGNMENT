@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ASSIGNMENT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="UrlString">https://reqres.in/api/users?page=2</string>
+    <string name="search_here">Search here...</string>
+</resources>
